@@ -1,0 +1,1 @@
+/home/ak/.vim/.ycm_extra_conf.py
